@@ -8,4 +8,4 @@ Lensing is achieved with the [ArcGIS API for JavaScript](https://developers.arcg
 
 Map lensing is not without its disadvantages.  Maps embedded in each lens cannot contain dynamic content, maps ideally should only contain tiled map or image service.  This is a performance consideration due to the number of navigation events invoked during lens interaction.
 
-![](http://blogs.esri.com/esri/apl/files/2014/11/lens.gif =250x)
+![](./lens.gif)
